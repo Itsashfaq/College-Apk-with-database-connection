@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DPGITM</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="Dpg">DPG Institute of Technology and Management</string>
+    <string name="close">Close</string>
+    <string name="about_college">DPG Institute of Technology and Management has been on a rise ever since its inception in 2004 to be fondly called as the best Engineering colleges of Gurgaon. With a mission to propagate quality of education by honing the technical skills of students, DPGITM aims to produce superior manpower of a tall order to be compared with the world’s most professional intellectuals.</string>
+    <string name="about_college2">
+        DPGITM is one of the best managed self-financed Colleges of Haryana, imparting quality technical education using most modern techniques. The institute gives top priorities to interactive dialogue with students on one to one basis. The ongoing online interaction between students and teachers as well as confidential feed back from the students on each course in every semester is the hallmark of DPG Institute of Technology and Management Education System.</string>
+
+</resources>
